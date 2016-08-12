@@ -1,9 +1,26 @@
+.footer-city {
+  background-image: url(../img/bg.png);
+  background-repeat: repeat-x;
+  bottom: 0;
+  height: 115px;
+  position: absolute;
+  width: 100%;
+}
+
 .aduke-logo {
-  height: 300px;
+  background: url(../img/adukebongo-logo.jpeg) no-repeat center center;
+  background-size: cover;
+  height: 150pt;
   left: 50%;
-  margin-left: -150px;
-  margin-top: -150px;
+  margin-left: -75pt;
+  margin-top: -75pt;
   position: absolute;
   top: 50%;
-  width: 300px;
+  width: 150pt;
 }
+/*
+@media(max-width:767px) {
+  .aduke-logo {
+    height: 150px
+  }
+}*/
