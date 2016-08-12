@@ -23,6 +23,10 @@
   width: 100%;
 }
 
+.navbar-link {
+  font-size: 15pt !important;
+}
+
 a.link-soundcloud {
   color: #FF5500 !important;
 }
@@ -37,5 +41,5 @@ a.link-youtube {
 }
 
 a.link-github {
-  corlo: #333333 !important;
+  color: #333333 !important;
 }
