@@ -1,9 +1,4 @@
-.footer-city {
-  background-image: url(../img/bg.png);
-  background-repeat: repeat-x;
-  bottom: 0;
-  height: 115px;
-  position: absolute;
+.navbar-text {
   width: 100%;
 }
 
@@ -13,14 +8,34 @@
   height: 150pt;
   left: 50%;
   margin-left: -75pt;
-  margin-top: -75pt;
+  margin-top: -85pt;
   position: absolute;
   top: 50%;
   width: 150pt;
 }
-/*
-@media(max-width:767px) {
-  .aduke-logo {
-    height: 150px
-  }
-}*/
+
+.footer-city {
+  background-image: url(../img/bg.png);
+  background-repeat: repeat-x;
+  bottom: 0;
+  height: 110px;
+  position: absolute;
+  width: 100%;
+}
+
+a.link-soundcloud {
+  color: #FF5500 !important;
+}
+
+a.link-facebook {
+  color: #3B5998 !important;
+}
+
+
+a.link-youtube {
+  color: #CC181E !important;
+}
+
+a.link-github {
+  corlo: #333333 !important;
+}
