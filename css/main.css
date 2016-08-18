@@ -7,7 +7,7 @@ body {
 }
 
 .aduke-logo {
-  background: url(../img/adukebongo-logo.jpeg) no-repeat center center;
+  background: url(../img/logo.png) no-repeat center center;
   background-size: cover;
   height: 150pt;
   left: 50%;
@@ -39,6 +39,9 @@ a.link-facebook {
   color: #3B5998 !important;
 }
 
+a.link-twitter {
+  color: #41ABE1 !important;
+}
 
 a.link-youtube {
   color: #CC181E !important;
@@ -46,4 +49,8 @@ a.link-youtube {
 
 a.link-github {
   color: #333333 !important;
+}
+
+a.link-instagram {
+  color: #262626 !important;
 }
